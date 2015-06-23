@@ -1,3 +1,3 @@
 # hello-world
-This is the This first repo
-This is the change is which has been new done for new Change branch. 
+This is the first repo
+This is the change which has been done for new branch. 
